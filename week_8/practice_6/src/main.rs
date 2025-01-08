@@ -7,6 +7,6 @@ fn main() {
         println!("the sum of everthing in cell one is:{}", y); 
     
         let sum:i32 = v[index] + u[index];
-        println!("the sum of v and u is: {}", sum);
+        println!("the sum of v and u is  {}", sum);
     }    
 }
